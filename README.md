@@ -1,14 +1,14 @@
-# Demos Repository
+# Demos
 
-This repository contains various examples demonstrating the usage of Unify with different LLM (Large Language Model) projects such as LangChain and LLAMaindex.
+This repository contains various examples demonstrating the usage of Unify with different LLM projects such as LangChain and LlamaIndex.
 
 ## File Structure
 
 The repository is structured as follows:
 
-- **LangChain**: Contains demos and examples specific to the LangChain project.
-- **LLAMaindex**: Includes demos and examples related to the LLAMaindex project.
-- **Unify**: Contains demonstrations and examples focused on the Unify project.
+- **LangChain**: Contains demos built using Unify's Langchain integration.
+- **LlamaIndex**: Includes demos built using Unify's LlamaIndex integration.
+- **Unify**: Contains demos built using the Unify Python Package. 
 
 Feel free to explore each folder to discover examples and demos tailored for each respective project.
 
@@ -16,5 +16,6 @@ Feel free to explore each folder to discover examples and demos tailored for eac
 
 We welcome contributions from the community to improve the demos repository. If you have additional demos, examples, or improvements to existing ones, follow these steps to create a pull request (PR):
 
-1. Fork the repository to your GitHub account.
-2. Clone the forked repository to your local machine:
+1. **Project Placement**: Position your project in the correct folder. For LangChain, LlamaIndex, or Unify related projects, create a new folder within the respective directory.
+2. **Project README**: Each project should have a README file that follows the template below:
+3. **PR Review**: Request a review a from Anwaar Khalid (GitHub: hello-fri-end)
