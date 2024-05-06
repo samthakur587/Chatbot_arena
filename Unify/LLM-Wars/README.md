@@ -38,20 +38,14 @@ The source code for **LLM Wars** is part of a larger collection of demos. You ca
 A live version of the application is hosted on Streamlit, allowing you to interact with it immediately without the need to set up a local environment. Visit the application at: [LLM Wars on Streamlit](https://unify-llm-wars-tftznesvztdt2bwsqgub3r.streamlit.app/).
 
 ### Running Locally
-To run **LLM Wars** locally, follow these steps:
+To run **LLM Wars** locally, clone the repository, then open up a terminal window from this directory (where this README is located) and follow these steps:
 
-1. **Clone the Repository**: First, clone the repository to your local machine using Git:
-   ```bash
-   git clone https://github.com/leebissessar5/Unify-LLM-Wars.git
-   cd Unify-LLM-Wars
-   ```
-
-2. **Install Dependencies**: Install the required Python libraries using pip:
+1. **Install Dependencies**: Install the required Python libraries using pip:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Launch the Application**: Finally, start the application by running:
+2. **Launch the Application**: Finally, start the application by running:
    ```bash
    streamlit run main.py
    ```
