@@ -28,7 +28,10 @@ LLM Wars demonstrates novel LLM applications beyond common use cases by creating
 - **API Integration**: Demonstrates how to effectively integrate and utilize third-party APIs (Unify AI) within a Python-based application.
 
 ## Quick Demo
-https://github.com/leebissessar5/Unify-LLM-Wars/assets/120032434/0a6f60c0-e679-4577-b409-9d5d6df11c9c
+<video width="320" height="240" controls>
+  <source src="./assets/LLMswarsa.gif" type="video/gif">
+  Your browser does not support the video tag.
+</video>
 
 ## Repository and Deployment
 ### Access the Source Code
